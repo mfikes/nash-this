@@ -11,7 +11,7 @@ Thanks to [Sebastian Bensusan](https://github.com/bensu) for helping put this to
 3. Build using `java -cp cljs.jar:src clojure.main release.clj`
 4. Run using `$JAVA_HOME/bin/jjs out/main.js`
 
-You will see output like:
+With 8u40 or later you will see output like:
 
 ```
 10
